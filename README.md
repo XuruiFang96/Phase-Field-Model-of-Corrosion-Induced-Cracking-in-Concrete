@@ -10,5 +10,5 @@ The papers involved include:
 
 4、FANG X, PAN Z, MA R, et al. A multi-phase multi-species phase field model for non-uniform corrosion and chloride removal in concrete [J]. Journal of Building Engineering, 2024, 82: 108214. https://doi.org/10.1016/j.jobe.2023.108214
 
-5、Electrochemical-chemical-mechanical phase field model for non-uniform corrosion-induced cracking considering the rust precipitation. Submitted.
+5、Fang, X., Pan, Z., Ma, R. et al. Electrochemical–chemical–mechanical phase field model for non-uniform corrosion-induced cracking considering the rust precipitation. Engineering with Computers (2025). https://doi.org/10.1007/s00366-025-02132-0
 
