@@ -1,5 +1,5 @@
 # Phase-field-Model-of-Corrosion-Induced-Cracking-in-Concrete
-#This repository contains the implementation of five different phase-field models designed to simulate corrosion-induced cracking in concrete (COMSOL 6.3). I will update them one by one. It is suitable for research and development purposes in computational mechanics, material science, and civil engineering. If you would like other programs not offered here, please contact me!
+#This repository contains the implementation of five different phase-field models designed to simulate corrosion-induced cracking in concrete. It is suitable for research and development purposes in computational mechanics, material science, and civil engineering. If you would like other programs not offered here, please contact me!
 The papers involved include:
 
 A) FANG X, PAN Z, CHEN A. Phase field modeling of concrete cracking for non-uniform corrosion of rebar [J]. Theoretical and Applied Fracture Mechanics, 2022, 121: 103517. https://doi.org/10.1016/j.tafmec.2022.103517
